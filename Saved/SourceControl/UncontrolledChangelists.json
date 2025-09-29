@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_Battery1_Blueprint.uasset",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/Scenarios/Scenario_1_-_The_Ordinary_World.umap",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_BlueDoor1_Blueprint.uasset",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_Plate1_Blueprint.uasset"
+			]
+		}
+	]
+}
