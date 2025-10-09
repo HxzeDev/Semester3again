@@ -1948,3 +1948,18 @@ Sampler Limit: 32
 [2025.10.09-22.04.36:373][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.09-22.04.36:373][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.09-22.04.36:373][836]AssetCheck: /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure Validating asset
+[2025.10.09-22.04.55:281][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-22.04.55:372][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.09-22.04.55:391][968]LogSavePackage: Moving output files for package: /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure
+[2025.10.09-22.04.55:391][968]LogSavePackage: Moving 'C:/Users/thoma/Documents/Semester2/Semester3again/Saved/Scenario_2_-_The_Call_to_Adventu5F1047324C82CEB94D210985056F3EAC.tmp' to 'C:/Users/thoma/Documents/Semester2/Semester3again/Content/Scenarios/Scenario_2_-_The_Call_to_Adventure.umap'
+[2025.10.09-22.04.55:402][968]LogFileHelpers: Saving map 'Scenario_2_-_The_Call_to_Adventure' took 0.074
+[2025.10.09-22.04.55:414][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.402 ms (total: 668.557 ms)
+[2025.10.09-22.04.55:452][968]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-22.04.55:452][968]LogContentValidation: Enabled validators:
+[2025.10.09-22.04.55:452][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-22.04.55:452][968]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-22.04.55:452][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-22.04.55:452][968]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-22.04.55:452][968]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-22.04.55:452][968]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-22.04.55:452][968]AssetCheck: /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure Validating asset
