@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_Battery1_Blueprint.uasset",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/Scenarios/Scenario_1_-_The_Ordinary_World.umap",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_BlueDoor1_Blueprint.uasset",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_Plate1_Blueprint.uasset",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_Globe1_Blueprint.uasset",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/Timer_bp.uasset",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_Screen1_Blueprint.uasset",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/Scenarios/BaseContent/Blueprints/WBP_ProjectInfo.uasset",
+				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/Scenarios/BaseContent/Meshes/timer_screen_BP.uasset",
 				"C:/Users/thoma/Documents/Semester2/Semester3again/Content/SM_Screen1_Blueprint.uasset",
 				"C:/Users/thoma/Documents/Semester2/Semester3again/Content/Scenarios/Scenario_1_-_The_Ordinary_World.umap",
 				"C:/Users/thoma/Documents/Semester2/Semester3again/Content/SM_Globe1_Blueprint.uasset",
@@ -35,12 +45,7 @@
 				"C:/Users/t.bibby/Documents/Semester2/Semester3again/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/t.bibby/Documents/Semester2/Semester3again/Content/numbers/Number1.uasset",
 				"C:/Users/t.bibby/Documents/Semester2/Semester3again/Content/numbers/2.uasset",
-				"C:/Users/t.bibby/Documents/Semester2/Semester3again/Content/numbers/SM_Keycard1_Blueprint.uasset",
-				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_Battery1_Blueprint.uasset",
-				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/Scenarios/Scenario_1_-_The_Ordinary_World.umap",
-				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_BlueDoor1_Blueprint.uasset",
-				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_Plate1_Blueprint.uasset",
-				"C:/Users/E4293693/Documents/GitHub/Semester3again/Content/SM_Globe1_Blueprint.uasset"
+				"C:/Users/t.bibby/Documents/Semester2/Semester3again/Content/numbers/SM_Keycard1_Blueprint.uasset"
 			]
 		}
 	]
